@@ -13,7 +13,7 @@ document.onreadystatechange = function () {
           document.getElementById('interactive');
           document.getElementById('load').style.cssText="opacity:0;z-index:-2;";
           document.getElementById('body-container').style.opacity="1";
-      },100);
+      },500);
   }
 }
 
